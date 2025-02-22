@@ -103,5 +103,5 @@ This is a demo version. For the full version or to contribute, please contact th
 
 ## 📫 Contact
 
-Your Name - [kelajak054@email.com]
+Doston - [kelajak054@email.com]
 Project Link: [https://github.com/mpython77/Instagram-Scrapper]
