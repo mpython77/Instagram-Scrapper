@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 1. Run the script:
 ```bash
-python demo_scraper.py
+python DemoPY.py
 ```
 
 2. Enter an Instagram username when prompted
